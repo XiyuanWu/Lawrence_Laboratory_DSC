@@ -1,0 +1,3 @@
+[submodule "cardiac_challenge"]
+	path = cardiac_challenge
+	url = https://github.com/landajuela/cardiac_challenge.git
