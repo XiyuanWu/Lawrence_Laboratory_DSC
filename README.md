@@ -1,1 +1,1 @@
-# Lawrence_Laboratory_DSC
+# Lawrence Livermore National Laboratory(LLNL) Data Science Challenge(DSC)
