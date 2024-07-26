@@ -4,3 +4,4 @@ model_t2.pkl
 model_t2_smote.pkl
 cardiac_challenge/intracardiac_dataset/
 combine_dataset/
+1dcnn.pth
