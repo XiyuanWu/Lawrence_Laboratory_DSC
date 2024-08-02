@@ -16,7 +16,7 @@ Heart disease is the leading cause of death in the United States. Arrhythmias ar
 
 ## Poster
 
-
+![DSC Poster](./DSC_poster_#7.png)
 
 
 ## Installation/Usage
