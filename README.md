@@ -25,9 +25,14 @@ Heart disease is the leading cause of death in the United States. Arrhythmias ar
 ```
 git clone --recurse-submodules <link for this repo>
 ```
-2. Download the dataset by running the following code
-```
-source download_intracardiac_dataset.sh
-```
+2. Set up Dataset
+
+    For Task1&2, Dataset can be found on [here](https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
+
+    For Task 3&4, Download the dataset by running the following code
+    ```
+    source download_intracardiac_dataset.sh
+    ```
+    
 3. After set up, run each notebook in order. 
 4. To run the deep learning model(task 3 and beyond), 32GB of RAM or a GPU is required in order to run.
