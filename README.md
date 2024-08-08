@@ -14,10 +14,19 @@ Arrhythmia is a medical condition characterized by irregular heartbeats, which, 
 
 Heart disease is the leading cause of death in the United States. Arrhythmias are a result of underlying heart problems and classifying them can provide life-saving care. A common method of getting heartbeat data is a standard 12 lead ECG, where electric signals from the heart are measured. We aim to use these signals to predict when specific parts of the heart activate.  
 
+## Instruction
+
+Here is the task instruction: 
+- Task 1: Perform binary classification,  normal vs abnormal
+- Task 2: Further break down to multi-class, identify five categories of heartbeats
+- Task 3: Predict the active time of each lead in the heart
+- Task 4: Predict whole time sequences curve for heart
+
+For detailed info, refer to the [instructions](./instruction/). 
+
 ## Poster
 
-[DSC Poster](DSC_poster_#7.pdf)
-
+![DSC Poster](./DSC%20poster.png)
 
 ## Installation/Usage
 
